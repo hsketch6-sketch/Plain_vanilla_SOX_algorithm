@@ -24,7 +24,7 @@ This repository evaluates the historical performance of the quantitative timing 
   * SOX Index (SOX ETF)
   * Individual underlying stocks are not traded; the algorithm strictly optimizes entry and exit timing on the index level.
 * **Total Return (TR) Included**
-  * No (Dividend reinvestment is not implemented in the current system).
+  * No (Dividend reinvestment is not implemented in the current system).(but B&H is TR)
 * **Slippage Accounted For**
   * No (Omitted due to an extremely low trading frequency of fewer than 1–2 trades per year, rendering slippage impact negligible).
 
